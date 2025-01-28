@@ -1,3 +1,7 @@
+Introduction
+-------------------------------------------------------------------------------------------
+This project was developed to fulfill the requirements of my Master of Science in Computer Information Systems dissertation. It allowed me to merge my passion for fashion with my interest in data analysis, resulting in a research project I thoroughly enjoyed. I received good feedback from my examiners, which further reinforced my enthusiasm for pursuing opportunities at the intersection of fashion and data analysis in the future.
+
 **Predicting the Next Fashion Color Trend with Machine Learning 
 ---------------------------------------------------------------------------------------------
 Overview 
